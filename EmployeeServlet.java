@@ -15,4 +15,5 @@ public class EmployeeServlet extends HttpServlet {
 
         response.sendRedirect(request.getContextPath() + "/success.jsp"); // Redirect to a success page
     }
+    
 }

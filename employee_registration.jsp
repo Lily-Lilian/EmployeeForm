@@ -3,12 +3,12 @@
 <head>
     <title>Employee Registration</title>
 </head>
-<body>
+<html>
     <form action="register" method="post">
-        <label for="firstName">First Name:</label>
+        <label for="firstName">First name:</label>
         <input type="text" id="firstName" name="firstName" required><br>
 
-        <label for="lastName">Last Name:</label>
+        <label for="lastName">Last name:</label>
         <input type="text" id="lastName" name="lastName" required><br>
 
         <label for="email">Email:</label>
@@ -19,5 +19,5 @@
 
         <input type="submit" value="Register">
     </form>
-</body>
+</html>
 </html>

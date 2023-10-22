@@ -1,8 +1,9 @@
 public class Employee {
     private String firstName;
     private String lastName;
-    private String email;
     private String department;
+    private String email;
+
 
     public Employee(String firstName, String lastName, String email, String department) {
         this.firstName = firstName;
