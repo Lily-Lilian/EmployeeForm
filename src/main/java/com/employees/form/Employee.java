@@ -1,3 +1,4 @@
+package com.employees.form;
 public class Employee {
     private String firstName;
     private String lastName;
